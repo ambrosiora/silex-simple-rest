@@ -18,7 +18,6 @@ You need at least php **5.4.*** with **SQLite extension** enabled and **Composer
     php -S 0:9001 -t web/
 
 You can install the project also as a composer project
-		
 		composer create-project vesparny/silex-simple-rest
     
 Your api is now available at http://localhost:9001/api/v1.
